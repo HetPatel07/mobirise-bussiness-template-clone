@@ -265,6 +265,10 @@ a:hover {
     height: 400px;
 }
 
+.mapiframe iframe{
+  border: 0;
+}
+
 /*footer part*/
 
 .footer{
